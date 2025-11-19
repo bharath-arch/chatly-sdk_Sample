@@ -188,7 +188,5 @@ To test with multiple users:
 7. Implement rate limiting
 8. Add error monitoring
 
-## License
 
-ISC
 
